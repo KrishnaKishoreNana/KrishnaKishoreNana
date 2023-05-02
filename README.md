@@ -1,6 +1,6 @@
-- 👋 Hi, I’m #@KrishnaKishoreNana
-- 👀 I’m interested in Web and Hybrid Mobile Applications...
-- 🌱 I’m currently learning on ReactJS...
+- 👋 Hi, I’m @KrishnaKishoreNana
+- 👀 I’m interested in Web and Hybrid Mobile Applications using PHP, Codigniter(Framework), MySQL, Wordpress, Ionic V6, Angular 14, Bootstrap, Javascript, HTML, CSS.
+- 🌱 I’m currently learning on ReactJS, ReactNative..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me krishnakishore.nana1@gmail.com
 
